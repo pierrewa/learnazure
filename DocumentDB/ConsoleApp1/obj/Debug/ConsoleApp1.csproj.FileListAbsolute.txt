@@ -1,0 +1,13 @@
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Bson.dll
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Driver.dll
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Bson.xml
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Driver.xml
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\pierre\documents\visual studio 2017\Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
